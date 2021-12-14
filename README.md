@@ -1,2 +1,2 @@
 # vae-tech-repo
-For Edureka assignmenty
+For Edureka assignment
